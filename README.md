@@ -31,8 +31,9 @@ Mimo, że wszyscy są jeszcze młodymi ludźmi, podobne badania przeprowadzali j
 &ndash;Kurcze, tyle tego to już dawno nie widziałam – powiedziała pani archeolog oglądając kolejny kawałek ceramiki.<br/> 
 &ndash;Jak tak dalej pójdzie, spędzimy tu całe wakacje – uff… przerwa.<br/> 
 Dzień mijał za dniem, koparka kopała, notatki i mapki powoli zaczynały odzwierciedlać rozciągnięte na siedem arów wykopalisko.
-Przy którejś przerwie na kawę Krzysiek oznajmił: – Mamy chyba grób… ok, zostawimy go na koniec. 
-Deszcz ten koniec odwlekł prawie o tydzień. Lipiec miał się ku końcowi, gdy ekipa archeologów po raz ostatni przyjechała do Juszkowa. 
+Przy którejś przerwie na kawę Krzysiek oznajmił: <br/>
+&ndash;Mamy chyba grób… ok, zostawimy go na koniec. 
+Deszcz ten koniec odwlekł prawie o tydzień. Lipiec miał się ku końcowi, gdy ekipa archeologów po raz ostatni przyjechała do Juszkowa. <br/>
 &ndash;Nie wierzę własnym oczom – powiedziała Magda. <br/> 
 &ndash;Co on ma??? To chyba miecz… - Krzysiek powoli odgarnął ziemię. – Panie, Panowie… chyba mamy sensację!<br/> 
 &ndash;Chyba jakiś azjata? Jak myślisz, który to wiek? – zapytał Marcin. – Stawiam na wczesne średniowiecze. <br/> 
