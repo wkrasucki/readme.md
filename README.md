@@ -4,7 +4,7 @@
 <h3 align="center">![memo](http://memorise.org/wp-content/uploads/2014/05/1369847707_4085_memory.jpg)
 <h5 align = "justify"> Miecz z bursztynami
 
-#Jedyny w Polsce pochówek wojownika „huńskiego” wraz z uzbrojeniem odkryła w lipcu ekipa archeologów z Muzeum Archeologicznego w Gdańsku pracująca na terenie Juszkowa. Odkrycie to jest o tyle zaskakujące, że datowany prawdopodobnie na V wiek n.e. grób, leży daleko od terenów migracji tego tajemniczego ludu. Dodatkową niespodzianką jest bezcenny miecz…
+###Jedyny w Polsce pochówek wojownika „huńskiego” wraz z uzbrojeniem odkryła w lipcu ekipa archeologów z Muzeum Archeologicznego w Gdańsku pracująca na terenie Juszkowa. Odkrycie to jest o tyle zaskakujące, że datowany prawdopodobnie na V wiek n.e. grób, leży daleko od terenów migracji tego tajemniczego ludu. Dodatkową niespodzianką jest bezcenny miecz…
 
 
 Edekan, jechał na czele swojego stuosobowego oddziału. Patrzył na zbliżające się zabudowania faktorii rzymskiej z niejakim politowaniem. Wiedział, że jest bacznie obserwowany. To, że nigdzie nie widać było ludzi, nie dziwiło go wcale, a przecież był to obszar gęsto zaludniony. 
