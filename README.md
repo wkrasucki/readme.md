@@ -20,7 +20,7 @@ Edekan nie poczuł już nawet, jak upadał na ziemię. Zniszczony wieloletnią j
 
 ##	Wykopalisko ratownicze
 
-	Każdy kto planuje budowę domu dostaje gęsiej skórki na samo słowo „archeolog”, albo „konserwator zabytków”. Nie daj Boże, żeby nasza działka znalazła się w tak zwanej strefie ochrony konserwatorskiej lub archeologicznej. Oznacza to przede wszystkim koszty, koszty i jeszcze raz … masę biegania i papierkowej roboty. Tak też było tym razem. 
+	Każdy kto planuje budowę domu dostaje gęsiej skórki na samo słowo archeolog, albo konserwator zabytków. Nie daj Boże, żeby nasza działka znalazła się w tak zwanej strefie ochrony konserwatorskiej lub archeologicznej. Oznacza to przede wszystkim koszty, koszty i jeszcze raz … masę biegania i papierkowej roboty. Tak też było tym razem. 
 Tam, gdzie wkrótce zaczną rosnąć nowe domy, gdzie wydzielone już były działki budowlane, ich właściciel zanim otrzymał pozwolenie na budowę, musiał umożliwić przeprowadzenie na swój koszt badań archeologicznych. 
 Swoją ekipę do Juszkowa wysłało Muzeum Archeologiczne w Gdańsku. Odpowiedzialnym za jej pracę został inspektor ds. ochrony archeologicznej w Gdańsku - mgr Krzysztof Dyrda. Wśród zespołu (oprócz operatora koparki i kilku miejscowych osób do pomocy przy pracach ziemnych) znaleźli się mgr Magdalena Kulesz – Hołysz i mgr Marcin Jagusiak.
 Mimo, że wszyscy są jeszcze młodymi ludźmi, podobne badania przeprowadzali już nieraz i była to dla nich rutynowa praca. Pogoda nie pomagała zbytnio zalewając pracującą ekipę żarem z letniego nieba.
@@ -36,7 +36,7 @@ Deszcz ten koniec odwlekł prawie o tydzień. Lipiec miał się ku końcowi, gdy
 - Przywalili go kamieniem, żeby nie wstał. Chyba musieli się go bać, bo grób tak blisko domów? To się raczej nie zdarza – stwierdziła Magda.
 - Pewnie chcieli go mieć na oku… 
 	
-	Trochę faktów
+###Trochę faktów
 
 	Odkrycie w Juszkowie zostało dokonane przez pracowników Muzeum Archeologicznego w Gdańsku. Trwają prace nad zabezpieczeniem znaleziska i jego renowacją. Mgr Krzysztof Dyrda pierwsze opracowanie naukowe przedstawi pod koniec listopada. Odkrycie już odbiło się szerokim echem w środowisku naukowym.
 Na prośbę naukowców nie podajemy dokładnej lokalizacji znaleziska, aby uniknąć rozkopywania stanowisk archeologicznych przez „poszukiwaczy skarbów”. Przedstawione opowiadanie oparte jest na wstępnych wynikach oględzin znaleziska, ale jest jedynie swobodną ich interpretacją.
