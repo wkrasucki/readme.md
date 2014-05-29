@@ -47,6 +47,10 @@ Na prośbę naukowców nie podajemy dokładnej lokalizacji znaleziska, aby unikn
 
 <p align = "right"><i>/WoRK/Wojciech Roman Krasucki</i></p>
 
+<h6>Więcej informacji poniżej
+
+* [Muzeum Archeologiczne w Gdańsku](http://www.archeologia.pl/)
+
 
  <h6> :small_red_triangle_down:  [acronym](https://github.com/monduls/technologie_zaliczenie/blob/master/acronym.md):small_red_triangle_down: [:abcd:](https://github.com/monduls/technologie_zaliczenie/blob/master/acronym.md)
 
