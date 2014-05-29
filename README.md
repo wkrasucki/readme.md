@@ -3,6 +3,7 @@
 <h3 align="center">![memo](https://lh3.googleusercontent.com/-DENMeaYH46w/U4b62imIfgI/AAAAAAAAAbE/aoMwyNwq1SM/w718-h56-no/miecz+szpara.jpg)
 <h5 align = "justify">Jedyny w Polsce pochówek wojownika „huńskiego” wraz z uzbrojeniem odkryła w lipcu 2010 roku ekipa archeologów z Muzeum Archeologicznego w Gdańsku pracująca na terenie Juszkowa. Odkrycie to jest o tyle zaskakujące, że datowany prawdopodobnie na V wiek n.e. grób, leży daleko od terenów migracji tego tajemniczego ludu. Dodatkową niespodzianką jest bezcenny miecz…</h5>
 
+<p> {tekst-indent: 10 };
 ###Edekan;
 <p align = "justify">Edekan, jechał na czele swojego stuosobowego oddziału. Patrzył na zbliżające się zabudowania faktorii rzymskiej z niejakim politowaniem. Wiedział, że jest bacznie obserwowany. To, że nigdzie nie widać było ludzi, nie dziwiło go wcale, a przecież był to obszar gęsto zaludniony. <br/>
 Wokół rzymskich placówek, zawsze pełno było wiosek, osad i siedlisk. Tu, w tak ważnym punkcie Szlaku Bursztynowego, było ich szczególnie dużo.<br/>
@@ -47,9 +48,10 @@ Na prośbę naukowców nie podajemy dokładnej lokalizacji znaleziska, aby unikn
 
 <p align = "right"><i>/WoRK/Wojciech Roman Krasucki</i></p>
 
-<h6>Więcej informacji poniżej
+<h4>Więcej informacji poniżej</h4>
 
 * [Muzeum Archeologiczne w Gdańsku](http://www.archeologia.pl/)
+* 
 
 
  <h6> :small_red_triangle_down:  [acronym](https://github.com/monduls/technologie_zaliczenie/blob/master/acronym.md):small_red_triangle_down: [:abcd:](https://github.com/monduls/technologie_zaliczenie/blob/master/acronym.md)
