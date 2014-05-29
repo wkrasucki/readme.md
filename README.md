@@ -6,8 +6,8 @@
 <h5 align = "justify">Jedyny w Polsce pochówek wojownika „huńskiego” wraz z uzbrojeniem odkryła w lipcu 2010 roku ekipa archeologów z Muzeum Archeologicznego w Gdańsku pracująca na terenie Juszkowa. Odkrycie to jest o tyle zaskakujące, że datowany prawdopodobnie na V wiek n.e. grób, leży daleko od terenów migracji tego tajemniczego ludu. Dodatkową niespodzianką jest bezcenny miecz…</h5>
 
 ###Edekan;
-
-<pre><p align = "justify" >Edekan, jechał na czele swojego stuosobowego oddziału. Patrzył na zbliżające się zabudowania faktorii rzymskiej z niejakim politowaniem. Wiedział, że jest bacznie obserwowany. To, że nigdzie nie widać było ludzi, nie dziwiło go wcale, a przecież był to obszar gęsto zaludniony. <br/>
+p { text-indent: 1 }
+<p align = "justify">Edekan, jechał na czele swojego stuosobowego oddziału. Patrzył na zbliżające się zabudowania faktorii rzymskiej z niejakim politowaniem. Wiedział, że jest bacznie obserwowany. To, że nigdzie nie widać było ludzi, nie dziwiło go wcale, a przecież był to obszar gęsto zaludniony. <br/>
 Wokół rzymskich placówek, zawsze pełno było wiosek, osad i siedlisk. Tu, w tak ważnym punkcie Szlaku Bursztynowego, było ich szczególnie dużo.<br/>
 <i>„Nazywają nas Hunami… barbarzyńcami – pomyślał – a niech nas zwą jak chcą, byle się nas bali.” </i>Czuł się nieco niespokojnie – mijane drzewa, rozłożyste i wysokie, kępy gęstych krzaków, jedna droga i pełno gęstych ścieżek ograniczały mocno manewry jego jeździe i były idealnym miejscem na zasadzkę. <br/>
 Edekan przyzwyczajony był do większych przestrzeni, chociaż nie pamiętał czasów, gdy jego przodkowie przemierzali niezmierzone stepy. W gęsto zalesionym terenie czuł się nieco klaustrofobicznie. Odkąd kilka lat temu pierwszy raz zobaczył morze, właśnie tak wyobrażał sobie step. Edekan nie bał się. On nigdy się nie bał. Wysoki, o lekko skośnych oczach, młody mężczyzna zasłużył się już w niejednej bitwie. Był wodzem, bezwzględnym dla wrogów i surowym dla swoich. Jego pokryte bliznami ciało przykrywał przetykany złotem kubrak i skórzana zbroja. Na plecach nosił łuk, a przy boku długi miecz w bogato zdobionej pochwie. Jego koń niósł ze sobą wszystko, czego potrzebował. Na jego grzbiecie czuł się pewnie. Gdy musiał iść pieszo, szło mu to niezgrabnie. Czuł, jakby nogi odmawiały mu posłuszeństwa, lekko kuśtykał. Za to w siodle nie miał sobie równych. <br/>
@@ -23,7 +23,7 @@ Edekan nie poczuł już nawet, jak upadał na ziemię. Zniszczony wieloletnią j
 <p align = "justify" >Każdy kto planuje budowę domu dostaje gęsiej skórki na samo słowo "archeolog", albo "konserwator zabytków". Nie daj Boże, żeby nasza działka znalazła się w tak zwanej strefie ochrony konserwatorskiej lub archeologicznej. Oznacza to przede wszystkim koszty, koszty i jeszcze raz … masę biegania i papierkowej roboty. Tak też było tym razem. 
 Tam, gdzie wkrótce zaczną rosnąć nowe domy, gdzie wydzielone już były działki budowlane, ich właściciel zanim otrzymał pozwolenie na budowę, musiał umożliwić przeprowadzenie na swój koszt badań archeologicznych. 
 Swoją ekipę do Juszkowa wysłało Muzeum Archeologiczne w Gdańsku. Odpowiedzialnym za jej pracę został inspektor ds. ochrony archeologicznej w Gdańsku - mgr Krzysztof Dyrda. Wśród zespołu (oprócz operatora koparki i kilku miejscowych osób do pomocy przy pracach ziemnych) znaleźli się mgr Magdalena Kulesz – Hołysz i mgr Marcin Jagusiak.
-Mimo, że wszyscy są jeszcze młodymi ludźmi, podobne badania przeprowadzali już nieraz i była to dla nich rutynowa praca. Pogoda nie pomagała zbytnio zalewając pracującą ekipę żarem z letniego nieba.</p></pre>
+Mimo, że wszyscy są jeszcze młodymi ludźmi, podobne badania przeprowadzali już nieraz i była to dla nich rutynowa praca. Pogoda nie pomagała zbytnio zalewając pracującą ekipę żarem z letniego nieba.</p>
 
 <i>&ndash;<nobr>Uff – za chwilę będziemy mieli omamy – powiedziała Magda.<br/>
 &ndash;<nobr>Palenisko… dół posłupowy… – pisał Marcin. – Magda weź nanieś to na mapę.<br/> 
