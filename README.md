@@ -24,6 +24,8 @@ Tam, gdzie wkrótce zaczną rosnąć nowe domy, gdzie wydzielone już były dzia
 Swoją ekipę do Juszkowa wysłało Muzeum Archeologiczne w Gdańsku. Odpowiedzialnym za jej pracę został inspektor ds. ochrony archeologicznej w Gdańsku - mgr Krzysztof Dyrda. Wśród zespołu (oprócz operatora koparki i kilku miejscowych osób do pomocy przy pracach ziemnych) znaleźli się mgr Magdalena Kulesz – Hołysz i mgr Marcin Jagusiak.
 Mimo, że wszyscy są jeszcze młodymi ludźmi, podobne badania przeprowadzali już nieraz i była to dla nich rutynowa praca. Pogoda nie pomagała zbytnio zalewając pracującą ekipę żarem z letniego nieba.</p>
 
+<h3 align="center">![memo](https://lh4.googleusercontent.com/-MCyJ6Magsck/U4b606u6-oI/AAAAAAAAAa8/_Oycc3m5MuE/w718-h539-no/DSC00080.JPG)
+
 <i>&ndash;<nobr>Uff – za chwilę będziemy mieli omamy – powiedziała Magda.<br/>
 &ndash;<nobr>Palenisko… dół posłupowy… – pisał Marcin. – Magda weź nanieś to na mapę.<br/> 
 &ndash;Kurcze, tyle tego to już dawno nie widziałam – powiedziała pani archeolog oglądając kolejny kawałek ceramiki.<br/> 
