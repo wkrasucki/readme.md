@@ -43,7 +43,7 @@ Deszcz ten koniec odwlekł prawie o tydzień. Lipiec miał się ku końcowi, gdy
 <p align = "justify" >Odkrycie w Juszkowie zostało dokonane przez pracowników Muzeum Archeologicznego w Gdańsku. Trwają prace nad zabezpieczeniem znaleziska i jego renowacją. Mgr Krzysztof Dyrda pierwsze opracowanie naukowe przedstawi pod koniec listopada. Odkrycie już odbiło się szerokim echem w środowisku naukowym.
 Na prośbę naukowców nie podajemy dokładnej lokalizacji znaleziska, aby uniknąć rozkopywania stanowisk archeologicznych przez „poszukiwaczy skarbów”. Przedstawione opowiadanie oparte jest na wstępnych wynikach oględzin znaleziska, ale jest jedynie swobodną ich interpretacją.</p>
 
-<p align = "right"><i>Wojciech Roman Krasucki</i></p>
+<p align = "right"><i>/WoRK/Wojciech Roman Krasucki</i></p>
 
 
  <h6> :small_red_triangle_down:  [acronym](https://github.com/monduls/technologie_zaliczenie/blob/master/acronym.md):small_red_triangle_down: [:abcd:](https://github.com/monduls/technologie_zaliczenie/blob/master/acronym.md)
