@@ -54,6 +54,7 @@ Na prośbę naukowców nie podajemy dokładnej lokalizacji znaleziska, aby unikn
 * [Imperium Huńskie](http://pl.wikipedia.org/wiki/Plik:Huns_empire.png)
 * [Dla miłośników historii](http://www.historycy.org/)
 
+[Powrót do strony glownej](http://wkrasucki.github.io)
 
 ***
 
