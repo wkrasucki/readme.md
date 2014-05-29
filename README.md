@@ -25,18 +25,18 @@ Tam, gdzie wkrótce zaczną rosnąć nowe domy, gdzie wydzielone już były dzia
 Swoją ekipę do Juszkowa wysłało Muzeum Archeologiczne w Gdańsku. Odpowiedzialnym za jej pracę został inspektor ds. ochrony archeologicznej w Gdańsku - mgr Krzysztof Dyrda. Wśród zespołu (oprócz operatora koparki i kilku miejscowych osób do pomocy przy pracach ziemnych) znaleźli się mgr Magdalena Kulesz – Hołysz i mgr Marcin Jagusiak.
 Mimo, że wszyscy są jeszcze młodymi ludźmi, podobne badania przeprowadzali już nieraz i była to dla nich rutynowa praca. Pogoda nie pomagała zbytnio zalewając pracującą ekipę żarem z letniego nieba.</p>
 
-- Uff – za chwilę będziemy mieli omamy – powiedziała Magda.
--- Palenisko… dół posłupowy… – pisał Marcin. – Magda weź nanieś to na mapę. 
--- Kurcze, tyle tego to już dawno nie widziałam – powiedziała pani archeolog oglądając kolejny kawałek ceramiki. 
--– Jak tak dalej pójdzie, spędzimy tu całe wakacje – uff… przerwa.
+&ndash;Uff – za chwilę będziemy mieli omamy – powiedziała Magda.
+&ndash;Palenisko… dół posłupowy… – pisał Marcin. – Magda weź nanieś to na mapę. 
+&ndash;Kurcze, tyle tego to już dawno nie widziałam – powiedziała pani archeolog oglądając kolejny kawałek ceramiki. 
+&ndash;Jak tak dalej pójdzie, spędzimy tu całe wakacje – uff… przerwa.
 Dzień mijał za dniem, koparka kopała, notatki i mapki powoli zaczynały odzwierciedlać rozciągnięte na siedem arów wykopalisko.
 Przy którejś przerwie na kawę Krzysiek oznajmił: – Mamy chyba grób… ok, zostawimy go na koniec. 
 Deszcz ten koniec odwlekł prawie o tydzień. Lipiec miał się ku końcowi, gdy ekipa archeologów po raz ostatni przyjechała do Juszkowa. 
--- Nie wierzę własnym oczom – powiedziała Magda. 
--- Co on ma??? To chyba miecz… - Krzysiek powoli odgarnął ziemię. – Panie, Panowie… chyba mamy sensację!
--- Chyba jakiś azjata? Jak myślisz, który to wiek? – zapytał Marcin. – Stawiam na wczesne średniowiecze. 
--- Przywalili go kamieniem, żeby nie wstał. Chyba musieli się go bać, bo grób tak blisko domów? To się raczej nie zdarza – stwierdziła Magda.
--- Pewnie chcieli go mieć na oku… 
+&ndash;Nie wierzę własnym oczom – powiedziała Magda. 
+&ndash;Co on ma??? To chyba miecz… - Krzysiek powoli odgarnął ziemię. – Panie, Panowie… chyba mamy sensację!
+&ndash;Chyba jakiś azjata? Jak myślisz, który to wiek? – zapytał Marcin. – Stawiam na wczesne średniowiecze. 
+&ndash;Przywalili go kamieniem, żeby nie wstał. Chyba musieli się go bać, bo grób tak blisko domów? To się raczej nie zdarza – stwierdziła Magda.
+&ndash;Pewnie chcieli go mieć na oku… 
 	
 ###Trochę faktów
 
