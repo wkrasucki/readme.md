@@ -1,6 +1,5 @@
-# Hun w Juszkowie
-<h3 align="center"> MNEMONICS
-***
+# Miecz z bursztynami
+<h3 align="center"> ##Hun w Juszkowie
 <h3 align="center">![memo](https://lh3.googleusercontent.com/-DENMeaYH46w/U4b62imIfgI/AAAAAAAAAbE/aoMwyNwq1SM/w718-h56-no/miecz+szpara.jpg)
 <h5 align = "justify"> Miecz z bursztynami
 
