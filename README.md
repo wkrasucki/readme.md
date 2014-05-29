@@ -51,19 +51,8 @@ Na prośbę naukowców nie podajemy dokładnej lokalizacji znaleziska, aby unikn
 <h4>Więcej informacji poniżej</h4>
 
 * [Muzeum Archeologiczne w Gdańsku](http://www.archeologia.pl/)
-* 
-
-
- <h6> :small_red_triangle_down:  [acronym](https://github.com/monduls/technologie_zaliczenie/blob/master/acronym.md):small_red_triangle_down: [:abcd:](https://github.com/monduls/technologie_zaliczenie/blob/master/acronym.md)
-
-
-<h6> :small_red_triangle_down:  [chain method](https://github.com/monduls/technologie_zaliczenie/blob/master/chain%20method.md):small_red_triangle_down: [:link:](https://github.com/monduls/technologie_zaliczenie/blob/master/chain%20method.md)
-
-
-<h6> :small_red_triangle_down:  [keyword method](https://github.com/monduls/technologie_zaliczenie/blob/master/keyword%20method.md):small_red_triangle_down: [:key:](https://github.com/monduls/technologie_zaliczenie/blob/master/keyword%20method.md)
-
-
-<h6> :small_red_triangle_down:  [loci method](https://github.com/monduls/technologie_zaliczenie/blob/master/loci%20method.md):small_red_triangle_down: [:globe_with_meridians:](https://github.com/monduls/technologie_zaliczenie/blob/master/loci%20method.md)
+* [Imperium Huńskie](http://pl.wikipedia.org/wiki/Plik:Huns_empire.png)
+* [Dla miłośników historii](http://www.historycy.org/)
 
 
 ***
