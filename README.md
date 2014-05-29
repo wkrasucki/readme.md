@@ -1,8 +1,6 @@
 # Miecz z bursztynami
-<h3 align="center"> 
+
 <h3 align="center">![memo](https://lh3.googleusercontent.com/-DENMeaYH46w/U4b62imIfgI/AAAAAAAAAbE/aoMwyNwq1SM/w718-h56-no/miecz+szpara.jpg)
-
-
 <h5 align = "justify">Jedyny w Polsce pochówek wojownika „huńskiego” wraz z uzbrojeniem odkryła w lipcu 2010 roku ekipa archeologów z Muzeum Archeologicznego w Gdańsku pracująca na terenie Juszkowa. Odkrycie to jest o tyle zaskakujące, że datowany prawdopodobnie na V wiek n.e. grób, leży daleko od terenów migracji tego tajemniczego ludu. Dodatkową niespodzianką jest bezcenny miecz…</h5>
 
 ###Edekan;
