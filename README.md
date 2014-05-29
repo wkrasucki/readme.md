@@ -4,7 +4,7 @@
 <h3 align="center">![memo](http://memorise.org/wp-content/uploads/2014/05/1369847707_4085_memory.jpg)
 <h5 align = "justify"> Miecz z bursztynami
 
-Jedyny w Polsce pochówek wojownika „huńskiego” wraz z uzbrojeniem odkryła w lipcu ekipa archeologów z Muzeum Archeologicznego w Gdańsku pracująca na terenie Juszkowa. Odkrycie to jest o tyle zaskakujące, że datowany prawdopodobnie na V wiek n.e. grób, leży daleko od terenów migracji tego tajemniczego ludu. Dodatkową niespodzianką jest bezcenny miecz…
+#Jedyny w Polsce pochówek wojownika „huńskiego” wraz z uzbrojeniem odkryła w lipcu ekipa archeologów z Muzeum Archeologicznego w Gdańsku pracująca na terenie Juszkowa. Odkrycie to jest o tyle zaskakujące, że datowany prawdopodobnie na V wiek n.e. grób, leży daleko od terenów migracji tego tajemniczego ludu. Dodatkową niespodzianką jest bezcenny miecz…
 
 
 Edekan, jechał na czele swojego stuosobowego oddziału. Patrzył na zbliżające się zabudowania faktorii rzymskiej z niejakim politowaniem. Wiedział, że jest bacznie obserwowany. To, że nigdzie nie widać było ludzi, nie dziwiło go wcale, a przecież był to obszar gęsto zaludniony. 
@@ -18,7 +18,7 @@ Chwila roztargnienia i Edekan znalazł się na ziemi. Pięścią roztrzaskał no
 	Nie minęło pięć minut, gdy trzech Gotów wiło się w konwulsjach na piasku. Edekan spojrzał, jak jego przerażony wierzchowiec pędzi drogą prosto do faktorii. Wiedział, że stamtąd na pomoc nie ma co liczyć. „Ach Ci Rzymianie! Zdrajcy, pewnie doskonale wiedzieli o zasadzce! – wściekłe myśli przemykały z prędkością błyskawicy – Niech no tylko zrobimy tu porządek… Ach gdzie mój koń!?... gdzie mó….yyjj…” 
 Edekan nie poczuł już nawet, jak upadał na ziemię. Zniszczony wieloletnią jazdą i walką kręgosłup sprawił, że ten jeden raz obrócił się o ułamek sekundy za wolno. W jego lekko odwróconą głowę uderzył gocki miecz. Gorąca krew wsiąkała w piasek drogi tuż obok krwi jego ofiar. Elanu tym razem nie mógł pomóc bratu, sam ranny ledwo odpierał ataki wściekłej hordy. Nikt nie miał wątpliwości, że przeżyją jedynie zwycięzcy. Elanu dał znak do odwrotu. Z resztą oddziału wysiekał sobie drogę na południe. Gdy nad ich głowami śmigały ostatnie strzały, pomyślał: „Żegnaj Bracie... wrócę tu i cię pomszczę!”
 
-	Wykopalisko ratownicze
+##	Wykopalisko ratownicze
 
 	Każdy kto planuje budowę domu dostaje gęsiej skórki na samo słowo „archeolog”, albo „konserwator zabytków”. Nie daj Boże, żeby nasza działka znalazła się w tak zwanej strefie ochrony konserwatorskiej lub archeologicznej. Oznacza to przede wszystkim koszty, koszty i jeszcze raz … masę biegania i papierkowej roboty. Tak też było tym razem. 
 Tam, gdzie wkrótce zaczną rosnąć nowe domy, gdzie wydzielone już były działki budowlane, ich właściciel zanim otrzymał pozwolenie na budowę, musiał umożliwić przeprowadzenie na swój koszt badań archeologicznych. 
