@@ -25,7 +25,7 @@ Tam, gdzie wkrótce zaczną rosnąć nowe domy, gdzie wydzielone już były dzia
 Swoją ekipę do Juszkowa wysłało Muzeum Archeologiczne w Gdańsku. Odpowiedzialnym za jej pracę został inspektor ds. ochrony archeologicznej w Gdańsku - mgr Krzysztof Dyrda. Wśród zespołu (oprócz operatora koparki i kilku miejscowych osób do pomocy przy pracach ziemnych) znaleźli się mgr Magdalena Kulesz – Hołysz i mgr Marcin Jagusiak.
 Mimo, że wszyscy są jeszcze młodymi ludźmi, podobne badania przeprowadzali już nieraz i była to dla nich rutynowa praca. Pogoda nie pomagała zbytnio zalewając pracującą ekipę żarem z letniego nieba.</p>
 
-&ndash;<nobr>Uff – za chwilę będziemy mieli omamy – powiedziała Magda.<br/>
+<i>&ndash;<nobr>Uff – za chwilę będziemy mieli omamy – powiedziała Magda.<br/>
 &ndash;<nobr>Palenisko… dół posłupowy… – pisał Marcin. – Magda weź nanieś to na mapę.<br/> 
 &ndash;Kurcze, tyle tego to już dawno nie widziałam – powiedziała pani archeolog oglądając kolejny kawałek ceramiki.<br/> 
 &ndash;Jak tak dalej pójdzie, spędzimy tu całe wakacje – uff… przerwa.<br/> 
@@ -36,7 +36,7 @@ Deszcz ten koniec odwlekł prawie o tydzień. Lipiec miał się ku końcowi, gdy
 &ndash;Co on ma??? To chyba miecz… - Krzysiek powoli odgarnął ziemię. – Panie, Panowie… chyba mamy sensację!<br/> 
 &ndash;Chyba jakiś azjata? Jak myślisz, który to wiek? – zapytał Marcin. – Stawiam na wczesne średniowiecze. <br/> 
 &ndash;Przywalili go kamieniem, żeby nie wstał. Chyba musieli się go bać, bo grób tak blisko domów? To się raczej nie zdarza – stwierdziła Magda.<br/> 
-&ndash;Pewnie chcieli go mieć na oku… <br/> 
+&ndash;Pewnie chcieli go mieć na oku… <br/> </i>
 	
 ###Trochę faktów
 
