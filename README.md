@@ -18,25 +18,25 @@ Chwila roztargnienia i Edekan znalazł się na ziemi. Pięścią roztrzaskał no
 	Nie minęło pięć minut, gdy trzech Gotów wiło się w konwulsjach na piasku. Edekan spojrzał, jak jego przerażony wierzchowiec pędzi drogą prosto do faktorii. Wiedział, że stamtąd na pomoc nie ma co liczyć. „Ach Ci Rzymianie! Zdrajcy, pewnie doskonale wiedzieli o zasadzce! – wściekłe myśli przemykały z prędkością błyskawicy – Niech no tylko zrobimy tu porządek… Ach gdzie mój koń!?... gdzie mó….yyjj…” 
 Edekan nie poczuł już nawet, jak upadał na ziemię. Zniszczony wieloletnią jazdą i walką kręgosłup sprawił, że ten jeden raz obrócił się o ułamek sekundy za wolno. W jego lekko odwróconą głowę uderzył gocki miecz. Gorąca krew wsiąkała w piasek drogi tuż obok krwi jego ofiar. Elanu tym razem nie mógł pomóc bratu, sam ranny ledwo odpierał ataki wściekłej hordy. Nikt nie miał wątpliwości, że przeżyją jedynie zwycięzcy. Elanu dał znak do odwrotu. Z resztą oddziału wysiekał sobie drogę na południe. Gdy nad ich głowami śmigały ostatnie strzały, pomyślał: „Żegnaj Bracie... wrócę tu i cię pomszczę!”</h5>
 
-###	Wykopalisko ratownicze
+###Wykopalisko ratownicze
 
 <p align = "justify" >Każdy kto planuje budowę domu dostaje gęsiej skórki na samo słowo "archeolog", albo "konserwator zabytków". Nie daj Boże, żeby nasza działka znalazła się w tak zwanej strefie ochrony konserwatorskiej lub archeologicznej. Oznacza to przede wszystkim koszty, koszty i jeszcze raz … masę biegania i papierkowej roboty. Tak też było tym razem. 
 Tam, gdzie wkrótce zaczną rosnąć nowe domy, gdzie wydzielone już były działki budowlane, ich właściciel zanim otrzymał pozwolenie na budowę, musiał umożliwić przeprowadzenie na swój koszt badań archeologicznych. 
 Swoją ekipę do Juszkowa wysłało Muzeum Archeologiczne w Gdańsku. Odpowiedzialnym za jej pracę został inspektor ds. ochrony archeologicznej w Gdańsku - mgr Krzysztof Dyrda. Wśród zespołu (oprócz operatora koparki i kilku miejscowych osób do pomocy przy pracach ziemnych) znaleźli się mgr Magdalena Kulesz – Hołysz i mgr Marcin Jagusiak.
 Mimo, że wszyscy są jeszcze młodymi ludźmi, podobne badania przeprowadzali już nieraz i była to dla nich rutynowa praca. Pogoda nie pomagała zbytnio zalewając pracującą ekipę żarem z letniego nieba.</p>
 
-&ndash;Uff – za chwilę będziemy mieli omamy – powiedziała Magda.
-&ndash;Palenisko… dół posłupowy… – pisał Marcin. – Magda weź nanieś to na mapę. 
-&ndash;Kurcze, tyle tego to już dawno nie widziałam – powiedziała pani archeolog oglądając kolejny kawałek ceramiki. 
-&ndash;Jak tak dalej pójdzie, spędzimy tu całe wakacje – uff… przerwa.
+&ndash;<nobr>Uff – za chwilę będziemy mieli omamy – powiedziała Magda.<br/>
+&ndash;<nobr>Palenisko… dół posłupowy… – pisał Marcin. – Magda weź nanieś to na mapę.<br/> 
+&ndash;Kurcze, tyle tego to już dawno nie widziałam – powiedziała pani archeolog oglądając kolejny kawałek ceramiki.<br/> 
+&ndash;Jak tak dalej pójdzie, spędzimy tu całe wakacje – uff… przerwa.<br/> 
 Dzień mijał za dniem, koparka kopała, notatki i mapki powoli zaczynały odzwierciedlać rozciągnięte na siedem arów wykopalisko.
 Przy którejś przerwie na kawę Krzysiek oznajmił: – Mamy chyba grób… ok, zostawimy go na koniec. 
 Deszcz ten koniec odwlekł prawie o tydzień. Lipiec miał się ku końcowi, gdy ekipa archeologów po raz ostatni przyjechała do Juszkowa. 
-&ndash;Nie wierzę własnym oczom – powiedziała Magda. 
-&ndash;Co on ma??? To chyba miecz… - Krzysiek powoli odgarnął ziemię. – Panie, Panowie… chyba mamy sensację!
-&ndash;Chyba jakiś azjata? Jak myślisz, który to wiek? – zapytał Marcin. – Stawiam na wczesne średniowiecze. 
-&ndash;Przywalili go kamieniem, żeby nie wstał. Chyba musieli się go bać, bo grób tak blisko domów? To się raczej nie zdarza – stwierdziła Magda.
-&ndash;Pewnie chcieli go mieć na oku… 
+&ndash;Nie wierzę własnym oczom – powiedziała Magda. <br/> 
+&ndash;Co on ma??? To chyba miecz… - Krzysiek powoli odgarnął ziemię. – Panie, Panowie… chyba mamy sensację!<br/> 
+&ndash;Chyba jakiś azjata? Jak myślisz, który to wiek? – zapytał Marcin. – Stawiam na wczesne średniowiecze. <br/> 
+&ndash;Przywalili go kamieniem, żeby nie wstał. Chyba musieli się go bać, bo grób tak blisko domów? To się raczej nie zdarza – stwierdziła Magda.<br/> 
+&ndash;Pewnie chcieli go mieć na oku… <br/> 
 	
 ###Trochę faktów
 
